@@ -172,7 +172,6 @@ class Board():
     
     # main game loop
     def game_loop(self):
-        print('\n  Tic Tac Toe by Code Monkey King\n')
         print('  Type "exit" to quit the game')
         print('  Move format [x,y]: 1,2 where 1 is column and 2 is row')
         
